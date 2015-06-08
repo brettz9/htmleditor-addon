@@ -1,0 +1,9 @@
+data/htmleditor.xcf
+data/Thumbs.db
+test
+htmleditor@brett-zamir.me.xpi
+.git
+.gitignore
+.bowerrc
+.jpmignore
+*.lnk
