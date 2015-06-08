@@ -7,5 +7,5 @@ htmleditor@brett-zamir.me.xpi
 .bowerrc
 .jpmignore
 *.lnk
-.htaccess
+**/.htaccess
 **/.bower.json
