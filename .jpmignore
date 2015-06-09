@@ -2,6 +2,20 @@ data/htmleditor.xcf
 data/Thumbs.db
 data/screenshot.xcf
 data/screenshot.png
+
+data/bower_components/htmleditor/bower_components/jquery/src
+data/bower_components/htmleditor/bower_components/jquery/dist/jquery.js
+data/bower_components/htmleditor/bower_components/jquery/dist/jquery.min.map
+
+data/bower_components/htmleditor/bower_components/codemirror/CONTRIBUTING.md
+data/bower_components/htmleditor/bower_components/codemirror/theme/ambiance-mobile.css
+
+data/bower_components/htmleditor/bower_components/codemirror/mode/*
+!data/bower_components/htmleditor/bower_components/codemirror/mode/htmlmixed
+!data/bower_components/htmleditor/bower_components/codemirror/mode/xml
+!data/bower_components/htmleditor/bower_components/codemirror/mode/javascript
+!data/bower_components/htmleditor/bower_components/codemirror/mode/css
+
 test
 htmleditor@brett-zamir.me.xpi
 .git
@@ -10,4 +24,5 @@ htmleditor@brett-zamir.me.xpi
 .jpmignore
 *.lnk
 **/.htaccess
+**/bower.json
 **/.bower.json
