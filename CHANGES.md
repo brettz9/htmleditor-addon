@@ -1,3 +1,6 @@
+# 0.2.3
+- Repackage XPI to fix AppCache manifest file reference
+
 # 0.2.2
 - Repackage XPI with alternate version of jQuery to satisfy AMO validation requirements.
 
