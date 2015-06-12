@@ -6,7 +6,7 @@
     "description": "Firefox browser add-on to open the HTMLEditor editor in new tabs.",
     "author": "Brett Zamir",
     "license": "MIT",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "scripts": {
         "postinstall": "bower install htmleditor"
     },
