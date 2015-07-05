@@ -17,7 +17,7 @@ data/bower_components/htmleditor/bower_components/codemirror/mode/*
 !data/bower_components/htmleditor/bower_components/codemirror/mode/css
 
 test
-htmleditor@brett-zamir.me.xpi
+*.xpi
 .git
 .gitignore
 .bowerrc
