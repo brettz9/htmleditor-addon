@@ -1,3 +1,6 @@
+# 0.2.4
+- Repackage XPI with updated HTMLEditor (fixes document context by using dynamic iframe)
+
 # 0.2.3
 - Repackage XPI to fix AppCache manifest file reference
 
