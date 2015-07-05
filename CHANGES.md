@@ -1,3 +1,7 @@
+# 0.2.5
+
+- Repackage XPI to satisfy AMO validation requirements
+
 # 0.2.4
 - Repackage XPI with updated HTMLEditor (fixes document context by using dynamic iframe)
 

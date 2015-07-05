@@ -1,12 +1,12 @@
 {
     "name": "htmleditor",
+    "version": "0.2.5",
     "title": "HTMLEditor",
     "id": "htmleditor@brett-zamir.me",
     "main": "lib/main",
     "description": "Firefox browser add-on to open the HTMLEditor editor in new tabs.",
     "author": "Brett Zamir",
     "license": "MIT",
-    "version": "0.2.4",
     "scripts": {
         "postinstall": "bower install htmleditor"
     },
