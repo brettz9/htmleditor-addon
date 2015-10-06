@@ -23,6 +23,7 @@ test
 .bowerrc
 .jpmignore
 *.lnk
+*.bat
 **/.htaccess
 **/bower.json
 **/.bower.json

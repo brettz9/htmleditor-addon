@@ -1,6 +1,6 @@
 {
     "name": "htmleditor",
-    "version": "0.2.5",
+    "version": "0.3.0",
     "title": "HTMLEditor",
     "id": "htmleditor@brett-zamir.me",
     "main": "lib/main",
@@ -10,6 +10,7 @@
     "scripts": {
         "postinstall": "bower install htmleditor"
     },
+    "permissions": {"private-browsing": true},
     "repository": {
         "type": "git",
         "url": "https://github.com/brettz9/htmleditor-addon.git"

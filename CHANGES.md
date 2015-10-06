@@ -1,5 +1,7 @@
-# 0.2.5
+# 0.3.0
+- Add support for private window browsing
 
+# 0.2.5
 - Repackage XPI to satisfy AMO validation requirements
 
 # 0.2.4
